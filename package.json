@@ -1,0 +1,23 @@
+{
+  "name": "docker-yyl-base",
+  "version": "0.1.0",
+  "description": "docker image for yyl-base",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackness1208/docker-yyl-base.git"
+  },
+  "keywords": [
+    "docker",
+    "yyl-base"
+  ],
+  "author": "jackness",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackness1208/docker-yyl-base/issues"
+  },
+  "homepage": "https://github.com/jackness1208/docker-yyl-base#readme"
+}
