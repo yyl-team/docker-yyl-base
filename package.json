@@ -1,6 +1,6 @@
 {
   "name": "docker-yyl-base",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "docker image for yyl-base",
   "main": "index.js",
   "scripts": {

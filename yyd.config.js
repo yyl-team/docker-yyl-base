@@ -8,5 +8,5 @@ module.exports = {
   pushHost: '',
   pushPrefix: 'jackness1208',
   // 自动 更新 history
-  rewriteHistory: true
+  rewriteHistory: false
 };
